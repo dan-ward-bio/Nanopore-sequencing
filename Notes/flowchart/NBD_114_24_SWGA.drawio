@@ -1,0 +1,570 @@
+<mxfile host="Electron" modified="2023-06-15T19:16:45.423Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="Ai9Wqtf1FrTQg8fO7Sf-" version="21.3.7" type="device" pages="2">
+  <diagram name="Page-1" id="XOvdbM0A1e22Qz7yKfM2">
+    <mxGraphModel dx="2099" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="570" y="237" width="179" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-143" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="300" y="20" width="451" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=50;" parent="d5il1thZxRS1CxYTk3ZY-143" vertex="1">
+          <mxGeometry x="1" width="449" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=50;" parent="d5il1thZxRS1CxYTk3ZY-143" vertex="1">
+          <mxGeometry x="269" y="100" width="182" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-147" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Adapter Ligation&lt;br&gt;+ Loading&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="d5il1thZxRS1CxYTk3ZY-143" vertex="1">
+          <mxGeometry x="-10" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="270" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-137" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1" y="559" width="749" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;opacity=50;" parent="d5il1thZxRS1CxYTk3ZY-137" vertex="1">
+          <mxGeometry y="161" width="749" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;opacity=50;" parent="d5il1thZxRS1CxYTk3ZY-137" vertex="1">
+          <mxGeometry x="299" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-145" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;End-repair&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="d5il1thZxRS1CxYTk3ZY-137" vertex="1">
+          <mxGeometry x="-1" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry y="22" width="300" height="698" as="geometry" />
+        </mxCell>
+        <mxCell id="JLU6szcm3_O9fUhX41_a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JLU6szcm3_O9fUhX41_a-1" target="d5il1thZxRS1CxYTk3ZY-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-675.88" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLU6szcm3_O9fUhX41_a-1" value="Amplicons" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-715.88" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-5" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-1" target="d5il1thZxRS1CxYTk3ZY-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="d5il1thZxRS1CxYTk3ZY-1" target="d5il1thZxRS1CxYTk3ZY-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-1" value="More than &lt;br&gt;288 samples?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="120" width="108.24" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-4" target="d5il1thZxRS1CxYTk3ZY-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-525.88" y="210" />
+              <mxPoint x="-570.88" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-4" target="d5il1thZxRS1CxYTk3ZY-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-525.88" y="210" />
+              <mxPoint x="-480.88" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-4" value="Consider PCR with in-line barcoded primers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-575.88" y="154" width="100" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-7" target="d5il1thZxRS1CxYTk3ZY-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570.88" y="300" />
+              <mxPoint x="-530.88" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-7" value="96-well PCR with barcode X primers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-605.88" y="230" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-9" target="d5il1thZxRS1CxYTk3ZY-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480.88" y="300" />
+              <mxPoint x="-499.88" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-9" value="96-well PCR with barcode Y primers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="-515.88" y="230" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-592.8299999999999" y="312.67" width="133.89" height="77.33" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-14" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="d5il1thZxRS1CxYTk3ZY-16" vertex="1">
+          <mxGeometry width="123.59076923076923" height="68.73777777777777" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-15" value="Pooled (unclean) PCR products in single 96 well plate" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="d5il1thZxRS1CxYTk3ZY-16" vertex="1">
+          <mxGeometry x="10.299230769230768" y="8.59222222222222" width="123.59076923076923" height="68.73777777777777" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-19" target="d5il1thZxRS1CxYTk3ZY-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-19" value="&amp;nbsp;Single sample PCR products in 96-well" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="-715.88" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-35" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="d5il1thZxRS1CxYTk3ZY-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-550.0791851350044" y="450.4000000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-495.88" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-29" value="Average well&lt;br&gt;&amp;nbsp;concentration &lt;br&gt;&amp;gt; 200 ng/µL?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-675.88" y="398.67" width="125.88" height="103.33" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-15" target="d5il1thZxRS1CxYTk3ZY-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520.88" y="400" />
+              <mxPoint x="-581.88" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-34" target="d5il1thZxRS1CxYTk3ZY-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-34" value="Clean-up with SPRI bead protocol (2:1 bead/sample volume ratio. Elute in &lt;b&gt;7&amp;nbsp;µL.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="462" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-36" target="d5il1thZxRS1CxYTk3ZY-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-652" y="858" />
+              <mxPoint x="-490" y="858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-36" value="Begin &lt;b&gt;NBD-114.96 Amplicon&lt;/b&gt; Protocol &lt;b&gt;STEP 6:&lt;/b&gt;&lt;br&gt;0.75 µL crude PCR product&lt;br&gt;5 µL water.&lt;br&gt;&lt;b&gt;50% end-prep enzyme and buffer volumes.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="-712" y="695" width="120" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-38" target="d5il1thZxRS1CxYTk3ZY-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-38" value="Begin &lt;b&gt;NBD-114.96 Amplicon&lt;/b&gt; Protocol &lt;b&gt;STEP 6:&lt;/b&gt;&lt;br&gt;&lt;br&gt;150 ng DNA +/- water in 5.75 µL.&lt;br&gt;&lt;b&gt;50%&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;end-prep&lt;/b&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;enzyme and buffer volumes.&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="695" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-490" y="617" as="sourcePoint" />
+            <mxPoint x="-494.85000000000014" y="638" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-39" value="SPRI eluate &lt;br&gt;&amp;lt; 40 ng/µL?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-538.73" y="539" width="97.46" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-43" target="d5il1thZxRS1CxYTk3ZY-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-336" y="858" />
+              <mxPoint x="-490" y="858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-43" value="Begin &lt;b&gt;NBD-114.96 Amplicon&lt;/b&gt; Protocol &lt;b&gt;STEP 6:&lt;/b&gt;&lt;br&gt;&lt;br&gt;=&amp;lt;150 ng DNA +/- water in 11.75 µL&lt;b&gt;.&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 0, 0);&quot;&gt;100%&lt;/span&gt;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;end-prep&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;background-color: rgb(238, 43, 43);&quot;&gt;&lt;br&gt;&lt;/span&gt;&amp;nbsp;enzyme and buffer volumes.&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-395.88" y="695" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="-695.88" y="432" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-45" value="&lt;b&gt;Are your amplicons &lt;br&gt;between 0.5 - 1.5 kb?&lt;/b&gt;&lt;br&gt;&lt;br&gt;See &lt;b&gt;tips &lt;/b&gt;for advice on &lt;br&gt;molarity calculations." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-827" y="447" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-53" value="&lt;br&gt;Continue&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;NBD-114.96 Amplicon&lt;/b&gt;&amp;nbsp;Protocol to completion:&lt;br&gt;&lt;ol&gt;&lt;li&gt;Barcode all wells individually in&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;step 6 &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;and poo&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;l&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Use &lt;b&gt;SFB &lt;/b&gt;buffer only in &lt;b&gt;step 12&lt;/b&gt;.&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Qbit the eluate from &lt;b&gt;step 18&lt;/b&gt; Load &lt;b style=&quot;background-color: initial;&quot;&gt;20 fmol &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;on to the flow cell.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-657.94" y="876" width="335.88" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-82" value="Any volume&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-59" target="d5il1thZxRS1CxYTk3ZY-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-59" value="Genomic DNA&lt;br&gt;for SWGA." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-67" value="Quantify 1 µL using Qbit HS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-62" target="d5il1thZxRS1CxYTk3ZY-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-62" value="Overnight SWGA.&lt;br&gt;&lt;b&gt;See SWGA protocol.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="230" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-73" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-66" target="d5il1thZxRS1CxYTk3ZY-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-84" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-66" target="d5il1thZxRS1CxYTk3ZY-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-66" value="Is &amp;gt;&lt;br&gt;8 ng/µL?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-68" value="Discard. Or clean using SPRI beads and repeat SWGA." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="346.25" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-75" value="12 µL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-71" target="d5il1thZxRS1CxYTk3ZY-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-71" value="SPRI clean-up and elute in 14 µL. 1:1 bead ratio." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="460" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-74" target="d5il1thZxRS1CxYTk3ZY-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-85" value="12 µL eluate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d5il1thZxRS1CxYTk3ZY-77" vertex="1" connectable="0">
+          <mxGeometry x="0.489" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-74" value="T7 Endonuclease I digestion overnight.&lt;br&gt;&lt;b&gt;See SWGA protocol.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="558.9999999999999" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="d5il1thZxRS1CxYTk3ZY-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331" y="743.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-76" value="Begin&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;NBD-114.24 gDNA&lt;/b&gt;&amp;nbsp;Protocol &lt;b&gt;End-repair:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;STEP 6.&lt;/b&gt;&lt;br&gt;Do not add DCS control sample.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="720" width="200" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-78" value="SPRI clean-up and elute in 13 µL. 0.5:1 bead:sample volume ratio." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="128" y="621.91" width="144" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-83" value="30 µL gDNA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-80" target="d5il1thZxRS1CxYTk3ZY-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-80" value="SPRI clean-up 2:1 bead:sample volume ratio and elute in 32 µL." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="137" y="130" width="130" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="472" y="677.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-96" value="10 µL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d5il1thZxRS1CxYTk3ZY-89" vertex="1" connectable="0">
+          <mxGeometry x="-0.4205" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-86" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;After incubation, procede with SPRI cleanup&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;End-repair:&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;steps 9 - 20. &lt;/b&gt;Quantify each sample.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="372" y="713.75" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-99" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-90" target="d5il1thZxRS1CxYTk3ZY-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-105" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-90" target="d5il1thZxRS1CxYTk3ZY-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-90" value="&lt;u&gt;Outliers &lt;/u&gt;with low &lt;br&gt;concentrations?&lt;br&gt;&amp;lt; 25 ng/µL" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
+          <mxGeometry x="396" y="585" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-107" value="7.5 µL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-92" target="d5il1thZxRS1CxYTk3ZY-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-92" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Normalise input mass for&amp;nbsp;&lt;b&gt;Native barcode ligation:&lt;/b&gt;&amp;nbsp;&lt;b&gt;step 5, &lt;/b&gt;such that the samples are diluted to equal the total mass of the &lt;b&gt;least concentrated &lt;/b&gt;sample.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="371" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-97" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Remove sample from the workflow.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="567.25" width="90" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-100" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="561" y="570" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-101" value="If you are sequencing &lt;br&gt;HMW DNA&lt;br&gt;you should optimise this &lt;br&gt;minimum such &lt;br&gt;that you achieve &lt;br&gt;&amp;gt; 20 fmol final yield.&lt;br&gt;Usually &amp;gt; 100 ng/µL. Samples&lt;br&gt;removed can be reincorporated&lt;br&gt;in subsequent library preps." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="562" y="562" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-102" target="d5il1thZxRS1CxYTk3ZY-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-102" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 5 &lt;/b&gt;of &lt;b&gt;Barcode Ligation.&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="406.5" y="403.67" width="129" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-113" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-104" target="d5il1thZxRS1CxYTk3ZY-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-114" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-104" target="d5il1thZxRS1CxYTk3ZY-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-104" value="Is the sample concentration &amp;gt; 40 ng/µL" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="412" y="297" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-109" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="535.5" y="312.25" width="20" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-110" value="If in doubt, perform &lt;b&gt;step 9 &lt;br&gt;&lt;/b&gt;with 100% volume. This step&lt;br&gt;is added to conserve &lt;br&gt;sample to facilitate library/barcode&lt;br&gt;re-balancing after sequencing. &lt;br&gt;i.e. Make a second library&lt;br&gt;with less BCXX and more BCYY." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="551.5" y="290" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-111" target="d5il1thZxRS1CxYTk3ZY-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-111" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 9&lt;/b&gt;&amp;nbsp;of the &lt;b&gt;barcode ligation &lt;/b&gt;with 50% of the total volume&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="381" y="204.5" width="83.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-141" target="d5il1thZxRS1CxYTk3ZY-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-112" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 9&lt;/b&gt;&amp;nbsp;of the &lt;b&gt;barcode ligation &lt;/b&gt;with 100% of the total volume&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="204.5" width="83.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469" y="120" as="sourcePoint" />
+            <mxPoint x="471.36800000000017" y="97.695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-115" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Continue to&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Priming and loading the SpotON flow cell: step 7.&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="381" y="120" width="180" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-128" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-121" target="d5il1thZxRS1CxYTk3ZY-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-131" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-121" target="d5il1thZxRS1CxYTk3ZY-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-121" value="Do you know &lt;br&gt;the N50 of your &lt;br&gt;sample" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="17.5" width="114" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-126" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Complete workflow loading 20 fmol on to the flow cell.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="581" y="157" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d5il1thZxRS1CxYTk3ZY-127" target="d5il1thZxRS1CxYTk3ZY-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-127" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See &lt;b&gt;tips&lt;/b&gt;&amp;nbsp;and follow&lt;br&gt;&quot;N50 determination&quot; workflow&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="655.5" y="48" width="90" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-144" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sample preparation&lt;br&gt;and SWGA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-10" y="22" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-146" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Barcode&lt;br&gt;Ligation&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="291" y="122" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d5il1thZxRS1CxYTk3ZY-153" value="Where flow cell economy is important, consider quantifying and balancing library concentrations to within 2X the median across all samples." style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-713.82" y="640" width="437.94" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gwG3cyvGzsHOUJHVWo_t" name="Page-2">
+    <mxGraphModel dx="1590" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry y="40" width="820" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="608" y="339.5" width="179" height="323" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="338" y="122.5" width="451" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=50;" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-2">
+          <mxGeometry x="1" width="449" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=50;" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-2">
+          <mxGeometry x="269" y="100" width="182" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Adapter Ligation&lt;br&gt;+ Loading&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-2">
+          <mxGeometry x="-10" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="338" y="222.5" width="270" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-7" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="39" y="661.5" width="749" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;opacity=50;" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-7">
+          <mxGeometry y="161" width="749" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;opacity=50;" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-7">
+          <mxGeometry x="299" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;End-repair&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="Y6S9W2ArBBHNjgoLxj8B-7">
+          <mxGeometry x="-1" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="38" y="124.5" width="300" height="698" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-12" value="Any volume&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-13" target="Y6S9W2ArBBHNjgoLxj8B-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-13" value="Genomic DNA&lt;br&gt;for SWGA." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="132.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-14" value="Quantify 1 µL using Qbit HS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-15" target="Y6S9W2ArBBHNjgoLxj8B-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-15" value="Overnight SWGA.&lt;br&gt;&lt;b&gt;See SWGA protocol.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="332.5" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-16" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-18" target="Y6S9W2ArBBHNjgoLxj8B-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-18" target="Y6S9W2ArBBHNjgoLxj8B-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-18" value="Is &amp;gt;&lt;br&gt;8 ng/µL?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="432.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-19" value="Discard. Or clean using SPRI beads and repeat SWGA." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="448.75" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-20" value="12 µL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-21" target="Y6S9W2ArBBHNjgoLxj8B-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-21" value="SPRI clean-up and elute in 14 µL. 1:1 bead ratio." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="562.5" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-24" target="Y6S9W2ArBBHNjgoLxj8B-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-23" value="12 µL eluate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y6S9W2ArBBHNjgoLxj8B-22">
+          <mxGeometry x="0.489" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-24" value="T7 Endonuclease I digestion overnight.&lt;br&gt;&lt;b&gt;See SWGA protocol.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="661.4999999999999" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Y6S9W2ArBBHNjgoLxj8B-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369" y="846.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-26" value="Begin&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;NBD-114.24 gDNA&lt;/b&gt;&amp;nbsp;Protocol &lt;b&gt;End-repair:&lt;/b&gt;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;STEP 6.&lt;/b&gt;&lt;br&gt;Do not add DCS control sample.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="822.5" width="200" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-27" value="SPRI clean-up and elute in 13 µL. 0.5:1 bead:sample volume ratio." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="724.41" width="144" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-28" value="30 µL gDNA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-29" target="Y6S9W2ArBBHNjgoLxj8B-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-29" value="SPRI clean-up 2:1 bead:sample volume ratio and elute in 32 µL." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="232.5" width="130" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-31" value="10 µL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y6S9W2ArBBHNjgoLxj8B-30">
+          <mxGeometry x="-0.4205" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-32" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;After incubation, procede with SPRI cleanup&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;End-repair:&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;steps 9 - 20. &lt;/b&gt;Quantify each sample.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="816.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-33" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-35" target="Y6S9W2ArBBHNjgoLxj8B-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="732.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-34" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-35" target="Y6S9W2ArBBHNjgoLxj8B-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-35" value="&lt;u&gt;Outliers &lt;/u&gt;with low &lt;br&gt;concentrations?&lt;br&gt;&amp;lt; 25 ng/µL" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="434" y="687.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-36" value="7.5 µL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-37" target="Y6S9W2ArBBHNjgoLxj8B-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-37" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Normalise input mass for&amp;nbsp;&lt;b&gt;Native barcode ligation:&lt;/b&gt;&amp;nbsp;&lt;b&gt;step 5, &lt;/b&gt;such that the samples are diluted to equal the total mass of the &lt;b&gt;least concentrated &lt;/b&gt;sample.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="582.5" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-38" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Remove sample from the workflow.&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="669.75" width="90" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="599" y="672.5" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-40" value="If you are sequencing &lt;br&gt;HMW DNA&lt;br&gt;you should optimise this &lt;br&gt;minimum such &lt;br&gt;that you achieve &lt;br&gt;&amp;gt; 20 fmol final yield.&lt;br&gt;Usually &amp;gt; 100 ng/µL. Samples&lt;br&gt;removed can be reincorporated&lt;br&gt;in subsequent library preps." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="664.5" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-42" target="Y6S9W2ArBBHNjgoLxj8B-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-42" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 5 &lt;/b&gt;of &lt;b&gt;Barcode Ligation.&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="506.17" width="129" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-43" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-45" target="Y6S9W2ArBBHNjgoLxj8B-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-44" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-45" target="Y6S9W2ArBBHNjgoLxj8B-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-45" value="Is the sample concentration &amp;gt; 40 ng/µL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="399.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="414.75" width="20" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-47" value="If in doubt, perform &lt;b&gt;step 9 &lt;br&gt;&lt;/b&gt;with 100% volume. This step&lt;br&gt;is added to conserve &lt;br&gt;sample to facilitate library/barcode&lt;br&gt;re-balancing after sequencing. &lt;br&gt;i.e. Make a second library&lt;br&gt;with less BCXX and more BCYY." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="589.5" y="392.5" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-49" target="Y6S9W2ArBBHNjgoLxj8B-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-49" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 9&lt;/b&gt;&amp;nbsp;of the &lt;b&gt;barcode ligation &lt;/b&gt;with 50% of the total volume&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="307" width="83.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-4" target="Y6S9W2ArBBHNjgoLxj8B-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-51" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Perform &lt;b&gt;step 9&lt;/b&gt;&amp;nbsp;of the &lt;b&gt;barcode ligation &lt;/b&gt;with 100% of the total volume&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="307" width="83.5" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="507" y="222.5" as="sourcePoint" />
+            <mxPoint x="509.36800000000017" y="200.195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-53" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Continue to&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Priming and loading the SpotON flow cell: step 7.&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="222.5" width="180" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-54" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-56" target="Y6S9W2ArBBHNjgoLxj8B-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-55" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-56" target="Y6S9W2ArBBHNjgoLxj8B-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-56" value="Do you know &lt;br&gt;the N50 of your &lt;br&gt;sample" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="120" width="114" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-57" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Complete workflow loading 20 fmol on to the flow cell.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="259.5" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6S9W2ArBBHNjgoLxj8B-59" target="Y6S9W2ArBBHNjgoLxj8B-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-59" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;See &lt;b&gt;tips&lt;/b&gt;&amp;nbsp;and follow&lt;br&gt;&quot;N50 determination&quot; workflow&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="693.5" y="150.5" width="90" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sample preparation&lt;br&gt;and SWGA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="28" y="124.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-61" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Barcode&lt;br&gt;Ligation&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="329" y="224.5" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Flow-chart for NBD-114.24 + SWGA&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="64.5" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6S9W2ArBBHNjgoLxj8B-64" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Daniel Ward - LSHTM&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="91.5" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
