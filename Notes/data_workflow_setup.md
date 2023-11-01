@@ -14,7 +14,7 @@ Next, we need to make sure the SAM and the SDN can talk to eachother, so we will
 Now, we set up the sync to run every hour from the SAM to the _data_ account on the SDN.
 
 ```crontab -e```
-
+And add the line:
 ```0 * * * * /usr/bin/rsync -rv --progress --log-file=/path/to/log_file-$(date +%Y-%m-%d)  /path/to/nanopore_data_SAM/ user@remote-machine:/path/to/nanopore_data_SDN/```
 
 Finally, we need a script to periodically purge the SAM of the sequencing data, only after having confirmed it has been uploaded. Here, I have opted for this script to be executed by the user, however it could be run automatically.
@@ -38,7 +38,7 @@ Mount the external drive, specifying the _nanopore_data_ group ID.
 
 Ensure the drive is always remounted with the correct GID
 ```sudo nano /etc/fstab```
-And add the line
+And add the line:
 ```/dev/sda1 /media/nanopore exfat umask=gid=nanopore_data```
 
 
